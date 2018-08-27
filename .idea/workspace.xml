@@ -13,8 +13,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index-START.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/05 - Flex Panel Gallery/index-START.html">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/06 - Type Ahead/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -91,6 +91,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -103,14 +107,15 @@
               <item name="JavaScript30" type="462c0819:PsiDirectoryNode" />
               <item name="05 - Flex Panel Gallery" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaScript30" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript30" type="462c0819:PsiDirectoryNode" />
+              <item name="06 - Type Ahead" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -128,12 +133,12 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\project\JavaScript30\01 - JavaScript Drum Kit" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\project\JavaScript30" />
       <recent name="C:\project\JavaScript30\02 - JS and CSS Clock" />
-      <recent name="C:\project\JavaScript30\01 - JavaScript Drum Kit" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\project\JavaScript30\01 - JavaScript Drum Kit" />
     </key>
   </component>
@@ -252,12 +257,13 @@
       <workItem from="1534604960522" duration="19000" />
       <workItem from="1534769321509" duration="276000" />
       <workItem from="1534812717628" duration="230000" />
-      <workItem from="1535035670847" duration="74000" />
+      <workItem from="1535035670847" duration="137000" />
+      <workItem from="1535375319456" duration="14000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12074000" />
+    <option name="totallyTimeSpent" value="12151000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -276,7 +282,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19172932" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1944146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -381,6 +387,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/05 - Flex Panel Gallery/index-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06 - Type Ahead/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
